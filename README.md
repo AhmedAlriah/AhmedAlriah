@@ -27,23 +27,11 @@
   <li><b>Tools:</b> Azure Portal, Azure DevOps, GitHub, Jupyter Notebook, Power BI, Excel</li>
 </ul>
 
-<hr>
-
-<h2>🚀 Featured Projects</h2>
-
-<h3>🦠 COVID-19 Data Engineering Project</h3>
-
-<p>
-Built an end-to-end Azure Data Engineering solution for ingesting,
-transforming, storing and visualizing COVID-19 datasets.
-</p>
-
-<p>
-<b>Tools:</b> Azure Data Factory, Azure Data Lake Gen2,
-Azure Synapse Analytics, SQL Pool, Power BI, Azure DevOps
-</p>
-
-<br>
+<hr><h3>
+🦠 <a href="https://github.com/AhmedAlriah/covid19-data-engineering-project-CICD-pipeline" target="_blank">
+COVID-19 Data Engineering Project (CI/CD Pipeline)
+</a>
+</h3>
 
 
 ## 📫 Let's Connect!
